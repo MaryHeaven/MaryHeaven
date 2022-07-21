@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I am a Frontend Developer.
+### Hello! I'm Maria, front-end developer. 👋
+Passionate about programming (as well as memes and poetry). 
 
 And this is my cat Benya.
 <img width="375px" src="https://github.com/MaryHeaven/mary_heaven/blob/main/15875676_787820921365741_3540976660381696000_n.jpeg">
