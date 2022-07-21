@@ -1,7 +1,7 @@
 ### Hello! I'm Maria, front-end developer. 👋
-<p>👩‍💻 Passionate about programming (as well as memes and poetry).</p>
-<p>🚀 My Telegram: https://t.me/Mary_Heaven</p>
-<p>👾 PERN stack</p>
+<div>👩‍💻 Passionate about programming (as well as memes and poetry).</div>
+<div>🚀 My Telegram: https://t.me/Mary_Heaven</div>
+<div>👾 PERN stack</div>
 
 <p>⚡ And this is my cat Benya.</p>
 <img width="375px" src="https://github.com/MaryHeaven/mary_heaven/blob/main/15875676_787820921365741_3540976660381696000_n.jpeg">
