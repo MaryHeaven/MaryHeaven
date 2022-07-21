@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![image](https://github.com/MaryHeaven/mary_heaven/blob/main/15875676_787820921365741_3540976660381696000_n.jpeg)
+I am a Frontend Developer.
+
+And this is my cat Benya.
+<img width="375px" src="https://github.com/MaryHeaven/mary_heaven/blob/main/15875676_787820921365741_3540976660381696000_n.jpeg">
+
 <!--
 **MaryHeaven/MaryHeaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
